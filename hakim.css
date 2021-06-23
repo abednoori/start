@@ -19,3 +19,23 @@ td {
 thead {
   background-color: indigo;
 }
+@font-face {
+  font-family: vazir;
+  src: url(./fonts/fonts/Vazir.woff);
+}
+body{
+  direction: rtl;
+}
+h1.card{
+  font-family: vazir;
+  background-color: darkorange;
+  text-align: center;
+  border: double slateblue;
+}
+.navbar{
+  border: ridge greenyellow;
+}
+.card1{
+  background-color: hotpink;
+ border-style: double;
+}
