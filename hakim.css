@@ -25,17 +25,33 @@ thead {
 }
 body{
   direction: rtl;
+  background-color: floralwhite;
+  background-image: url(../156719563.jpg) ;
+  background-image:repeat ;
 }
 h1.card{
   font-family: vazir;
-  background-color: darkorange;
+  background-color: rgb(255, 140, 0,0.5);
   text-align: center;
-  border: double slateblue;
+  border-radius: 80px;
+  border-style: inset;
+  font-size: 72px ;
+  font-style: italic;
+  
+
 }
-.navbar{
-  border: ridge greenyellow;
-}
+
 .card1{
-  background-color: hotpink;
- border-style: double;
+  text-decoration: none;
+  color: rgb(218, 233, 226);
+  background-color: rgb(65, 28, 228, 0.7 );
+ border-radius: 6px;
+ 
+ border-style: outset;
+}
+
+.card2{
+  background-color: cornsilk;
+  border: double;
+  border-radius: 15px;
 }
