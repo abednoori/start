@@ -1,11 +1,13 @@
 @font-face {
   font-family: vazir;
-  src: url(../fonts/fonts/Vazir.woff);
+  src: url(../fonts/Vazir.woff);
 }
 body {
+  background-image: url(../images.jfif)  no-repeat ;
   font-family: vazir;
   background-color: rgb(255, 255, 255);
   direction: rtl;
+  
 }
 h1 {
   font-size: 35px;
