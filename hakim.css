@@ -23,34 +23,31 @@ thead {
   font-family: vazir;
   src: url(./fonts/fonts/Vazir.woff);
 }
-body{
+body {
   direction: rtl;
   background-color: floralwhite;
-  background-image: url(../156719563.jpg) ;
-  background-image:repeat ;
+  background-image: url(../156719563.jpg);
+  background-image: no-repeat;
 }
-h1.card{
+h1.card {
   font-family: vazir;
-  background-color: rgb(255, 140, 0,0.5);
+  background-color: rgb(255, 140, 0, 0.5);
   text-align: center;
   border-radius: 80px;
   border-style: inset;
-  font-size: 72px ;
+  font-size: 72px;
   font-style: italic;
-  
-
 }
 
-.card1{
+.card1 {
   text-decoration: none;
   color: rgb(218, 233, 226);
-  background-color: rgb(65, 28, 228, 0.7 );
- border-radius: 6px;
- 
- border-style: outset;
+  background-color: rgb(65, 28, 228, 0.7);
+  border-radius: 6px;
+  border-style: outset;
 }
 
-.card2{
+.card2 {
   background-color: cornsilk;
   border: double;
   border-radius: 15px;
