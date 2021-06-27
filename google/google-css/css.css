@@ -1,0 +1,76 @@
+.gif-google {
+  width: fit-content;
+  box-sizing: border-box;
+  margin: auto;
+  margin-top: 150px;
+}
+body {
+    
+    background-repeat: no-repeat;
+  direction: rtl;
+  margin: auto;
+  
+}
+input {
+  width: 550px;
+  height: 40px;
+  background-image: url(./back-input.png);
+  border-radius: 50px;
+  background-repeat: no-repeat;
+  box-shadow: 5px 5px 10px 10px  rgb(212, 212, 201) ;
+  font-size: 20px;
+  
+  
+}
+input:hover {
+    width: 550px;
+    height: 40px;
+    background-image: url(./back-input.png);
+    border: 4px outset grey;
+    border-radius: 50px;
+    background-repeat: no-repeat;
+    box-shadow: 5px 5px 10px 10px  rgb(138, 147, 185) ;
+    text-align: center;
+    color: blue;
+    
+
+  }
+.box-serch {
+  margin: auto;
+  width: fit-content;
+  text-shadow: 10px 10px  thistle 2px ;
+  
+}
+.linck {
+  
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+}
+.linck:hover {
+  
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    text-shadow: 5px 5px 5px  green;
+    border-top:5px solid blue ;
+    background-color: rgba(245, 245, 245, 0.5);
+    border-radius: 17px;
+    padding-top: 15px;
+  }
+.linck-div{
+    direction: ltr;
+   position: initial ;
+   top: 10 px;
+
+
+}
+.nasa{
+    
+    width: fit-content;
+    margin-top: 250px;
+
+
+
+}
+
